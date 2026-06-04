@@ -1,0 +1,61 @@
+# Geotecnia1 — Copiapó
+
+> Geotechnical engineering services in Copiapó, Chile.
+
+## Services
+- [Aislacion Sismica](https://copiapo.geotecnia1.biz/aislacion-sismica/)
+- [Anclajes](https://copiapo.geotecnia1.biz/anclajes/)
+- [Calicatas](https://copiapo.geotecnia1.biz/calicatas/)
+- [Calicatas Exploratorias](https://copiapo.geotecnia1.biz/calicatas-exploratorias/)
+- [Cbr Vial](https://copiapo.geotecnia1.biz/cbr-vial/)
+- [Cimentaciones](https://copiapo.geotecnia1.biz/cimentaciones/)
+- [Cimentaciones Superficiales](https://copiapo.geotecnia1.biz/cimentaciones-superficiales/)
+- [Columnas Grava](https://copiapo.geotecnia1.biz/columnas-grava/)
+- [Densidad Cono Arena](https://copiapo.geotecnia1.biz/densidad-cono-arena/)
+- [Ensayo Cpt](https://copiapo.geotecnia1.biz/ensayo-cpt/)
+- [Ensayo Triaxial](https://copiapo.geotecnia1.biz/ensayo-triaxial/)
+- [Ensayos Proctor](https://copiapo.geotecnia1.biz/ensayos-proctor/)
+- [Estabilidad Taludes](https://copiapo.geotecnia1.biz/estabilidad-taludes/)
+- [Excavaciones Profundas](https://copiapo.geotecnia1.biz/excavaciones-profundas/)
+- [Excavaciones Subterraneo](https://copiapo.geotecnia1.biz/excavaciones-subterraneo/)
+- [Exploracion](https://copiapo.geotecnia1.biz/exploracion/)
+- [Geofisica](https://copiapo.geotecnia1.biz/geofisica/)
+- [Geotecnia Vial](https://copiapo.geotecnia1.biz/geotecnia-vial/)
+- [Granulometria](https://copiapo.geotecnia1.biz/granulometria/)
+- [Grouting](https://copiapo.geotecnia1.biz/grouting/)
+- [Inyecciones](https://copiapo.geotecnia1.biz/inyecciones/)
+- [Laboratorio In Situ](https://copiapo.geotecnia1.biz/laboratorio-in-situ/)
+- [Laboratorio Lab](https://copiapo.geotecnia1.biz/laboratorio-lab/)
+- [Licuefaccion](https://copiapo.geotecnia1.biz/licuefaccion/)
+- [Limites Atterberg](https://copiapo.geotecnia1.biz/limites-atterberg/)
+- [Losa De Cimentacion](https://copiapo.geotecnia1.biz/losa-de-cimentacion/)
+- [Losas Fundacion](https://copiapo.geotecnia1.biz/losas-fundacion/)
+- [Masw](https://copiapo.geotecnia1.biz/masw/)
+- [Masw Vs30](https://copiapo.geotecnia1.biz/masw-vs30/)
+- [Mejoramiento](https://copiapo.geotecnia1.biz/mejoramiento/)
+- [Microzonificacion Sismica](https://copiapo.geotecnia1.biz/microzonificacion-sismica/)
+- [Monitoreo Excavaciones](https://copiapo.geotecnia1.biz/monitoreo-excavaciones/)
+- [Muros Contencion](https://copiapo.geotecnia1.biz/muros-contencion/)
+- [Pavimento Flexible](https://copiapo.geotecnia1.biz/pavimento-flexible/)
+- [Pavimento Rigido](https://copiapo.geotecnia1.biz/pavimento-rigido/)
+- [Permeabilidad In Situ](https://copiapo.geotecnia1.biz/permeabilidad-in-situ/)
+- [Pilotes](https://copiapo.geotecnia1.biz/pilotes/)
+- [Refraccion Sismica](https://copiapo.geotecnia1.biz/refraccion-sismica/)
+- [Resistividad](https://copiapo.geotecnia1.biz/resistividad/)
+- [Resistividad Electrica Sev](https://copiapo.geotecnia1.biz/resistividad-electrica-sev/)
+- [Sismica](https://copiapo.geotecnia1.biz/sismica/)
+- [Sondaje Spt](https://copiapo.geotecnia1.biz/sondaje-spt/)
+- [Sondajes Spt](https://copiapo.geotecnia1.biz/sondajes-spt/)
+- [Taludes](https://copiapo.geotecnia1.biz/taludes/)
+- [Tomografia Sismica](https://copiapo.geotecnia1.biz/tomografia-sismica/)
+- [Triaxial](https://copiapo.geotecnia1.biz/triaxial/)
+- [Tuneles Suelo Blando](https://copiapo.geotecnia1.biz/tuneles-suelo-blando/)
+- [Vibrocompactacion](https://copiapo.geotecnia1.biz/vibrocompactacion/)
+- [Zapatas](https://copiapo.geotecnia1.biz/zapatas/)
+
+## Contact
+- Website: https://copiapo.geotecnia1.biz/
+
+## About
+This site provides geotechnical engineering services in Copiapó, Chile.
+Compliant with local and international standards (ASTM, ISO, country-specific norms).
